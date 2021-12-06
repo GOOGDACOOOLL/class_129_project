@@ -1,0 +1,8 @@
+body{
+    background-size: cover;
+}
+
+canvas{
+    border: ridge;
+    box-shadow: 0 0 5 black;
+}
